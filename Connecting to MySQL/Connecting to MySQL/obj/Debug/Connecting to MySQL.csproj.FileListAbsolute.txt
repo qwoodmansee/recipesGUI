@@ -1,0 +1,16 @@
+c:\users\quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.Add_Ingredient.resources
+c:\users\quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.Properties.Resources.resources
+c:\users\quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting to MySQL.csproj.GenerateResource.Cache
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\bin\Debug\Connecting to MySQL.exe.config
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\bin\Debug\Connecting to MySQL.exe
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\bin\Debug\Connecting to MySQL.pdb
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting to MySQL.csprojResolveAssemblyReference.cache
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting to MySQL.exe
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting to MySQL.pdb
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.addRecipe.resources
+C:\Users\Quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\bin\Debug\ListViewEx.dll
+C:\Users\Quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.SearchRecipe.resources
+C:\Users\Quinton\Documents\Visual Studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.recipeViewer.resources
+C:\Users\Quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.MainWindow.resources
+C:\Users\Quinton\documents\visual studio 2015\Projects\Connecting to MySQL\Connecting to MySQL\obj\Debug\Connecting_to_MySQL.deleteRecipe.resources
